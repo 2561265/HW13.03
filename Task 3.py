@@ -1,4 +1,4 @@
-class_list = open('class_list.txt' , 'r+')
+class_list = open('class_list.txt', 'r+')
 key_base = ['First name', 'Last name', 'Gender', 'Age']
 student_info = []
 student = class_list.readline()
